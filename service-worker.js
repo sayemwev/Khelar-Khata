@@ -1,4 +1,4 @@
-const CACHE_NAME = 'khelar-khata-v2';
+const CACHE_NAME = 'khelar-khata;
 const urlsToCache = [
   './',
   './index.html',
